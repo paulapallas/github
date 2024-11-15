@@ -1,0 +1,19 @@
+
+h1{
+    background-color: rgb(97, 179, 132);
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+}
+
+body{
+    background-color: rgb(224, 224, 224);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    border-color: rgb(15, 117, 70);
+    background-color: rgb(255, 255, 255);
+    
+}
